@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/folke/noice.nvim/compare/v2.0.0...v2.0.1) (2024-01-22)
+
+
+### Performance Improvements
+
+* ignore events when setting buf options during render. Fixes [#694](https://github.com/folke/noice.nvim/issues/694) ([bf67d70](https://github.com/folke/noice.nvim/commit/bf67d70bd7265d075191e7812d8eb42b9791f737))
+
 ## [2.0.0](https://github.com/folke/noice.nvim/compare/v1.16.3...v2.0.0) (2023-10-25)
 
 
